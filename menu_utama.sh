@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Manggil file eksternal
-source ./spam_tools.sh  # ini buat manggil file eksternal lo
+source ./bahan.sh  # ini buat manggil file eksternal lo
 
 # Menu buat Spam Tools
 spam_menu() {
